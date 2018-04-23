@@ -1,7 +1,7 @@
 class App < Sinatra::Base
 
   get '/' do
-    "Hello, World!"
+    "Hello, World! Is this dynamic?"
   end
 
 
